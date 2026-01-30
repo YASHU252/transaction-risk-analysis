@@ -1,0 +1,8 @@
+# Data files
+data/*.csv
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Power BI temp files
+*.pbix.tmp
